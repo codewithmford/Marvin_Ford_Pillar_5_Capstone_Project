@@ -11,7 +11,7 @@ Capstone: Netflix Content-Based Recommender System/
 │   ├── 03_Data_Preprocessing_EDA_FeatureEngineering.ipynb
 │   ├── 04_Modeling_Evaluation_ModelSelection.ipynb
 │   ├── 05_RecommendationFunction_EvaluationMetrics.ipynb
-│   ├── 06_CriticalThinking_Explainability_Ethics_BiasAuditing.ipynb
+│   ├── 06_CriticalThinking_Explainability_Ethics_BiasAuditing_Conclusion
 │   └── Marvin_Ford_Pillar_5_Capstone_Project.ipynb
 │
 ├── data/

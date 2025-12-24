@@ -11,7 +11,7 @@ Capstone: Netflix Content-Based Recommender System/
 │   ├── 03_Data_Preprocessing_EDA_FeatureEngineering.ipynb
 │   ├── 04_Modeling_Evaluation_ModelSelection.ipynb
 │   ├── 05_RecommendationFunction_EvaluationMetrics.ipynb
-│   ├── 06_CriticalThinking_Explainability_Ethics_BiasAuditing_Conclusion
+│   ├── 06_CriticalThinking_Explainability_Ethics_BiasAuditing_Conclusion.ipynb
 │   └── Marvin_Ford_Pillar_5_Capstone_Project.ipynb
 │
 ├── data/
@@ -25,7 +25,8 @@ Capstone: Netflix Content-Based Recommender System/
 │
 ├── reports/
 │   ├── Marvin_Ford_Pillar_5_Capstone_Project_Final_Report.pdf
-│   └── Marvin_Ford_Pillar_5_Capstone_Project_Presentation.pptx
+│   ├── Marvin_Ford_Pillar_5_Capstone_Project__Business_Presentation.pptx
+│   └── Marvin_Ford_Pillar_5_Capstone_Project__Technical_Presentation.pptx
 │
 └── docs/
     └── data_dictionary.md

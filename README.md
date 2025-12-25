@@ -1,9 +1,9 @@
 # Capstone: Netflix Content-Based Recommender System
 
 ## Project Description
-This capstone project develops a **content-based recommender system** designed to help users discover relevant Netflix titles when **user interaction data (such as ratings or watch history) is unavailable**. Large streaming catalogs often overwhelm users, making content discovery inefficient. This project addresses that challenge by relying entirely on **title metadata and content similarity**, rather than behavioral data.
+This capstone project develops a content-based recommender system designed to help users discover relevant Netflix titles when user interaction data (such as ratings or watch history) is unavailable. Large streaming catalogs often overwhelm users, making content discovery inefficient. This project addresses that challenge by relying entirely on title metadata and content similarity, rather than behavioral data.
 
-The system is designed to operate effectively under **cold-start conditions**, where traditional collaborative filtering methods struggle. Instead of predicting user preferences, the model retrieves semantically similar content using descriptive metadata such as genres, descriptions, cast, and country.
+The system is designed to operate effectively under cold-start conditions, where traditional collaborative filtering methods struggle. Instead of predicting user preferences, the model retrieves semantically similar content using descriptive metadata such as genres, descriptions, cast, and country.
 
 ---
 
@@ -17,7 +17,7 @@ This project addresses the following question:
 
 **How can relevant, diverse, and explainable Netflix content be recommended using only title-level metadata?**
 
-The objective is not to predict individual user behavior, but to **improve content discovery**, reduce excessive browsing, and promote fair catalog exposure using transparent and auditable methods.
+The objective is not to predict individual user behavior, but to improve content discovery, reduce excessive browsing, and promote fair catalog exposure using transparent and auditable methods.
 
 ---
 
